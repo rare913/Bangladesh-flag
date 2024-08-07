@@ -1,0 +1,32 @@
+.green {
+background-color: green;
+height: 400px;
+width: 700px;
+padding: 0;
+margin: o;
+text-align: center;
+position: relative;
+display: flex;
+
+}
+.red {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    padding: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+body {
+    align-items: center;
+    margin: 0;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    
+}
